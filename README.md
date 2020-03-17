@@ -1,2 +1,3 @@
 # OpenCVOperations
-This is the repository I made during learning OpenCV using python
+I made this repository during learning opencv.
+This repo contains motion detector, face detection, road lines detection and eye detection etc. 
